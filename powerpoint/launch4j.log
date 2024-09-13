@@ -1,0 +1,37 @@
+
+
+Version:	3.50
+CmdLine:	E:\programming\spring boot\Power Point Generator\powerpoint\PPT Creator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	E:\programming\spring boot\Power Point Generator\powerpoint\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = D:\applications\sql_plus\app\app\oracle\product\11.2.0\server\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;D:\applications\python\Scripts\;D:\applications\python\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-19\bin;D:\applications\git\Git\cmd;D:\applications\sql plus\instantclient-basic-win-x86-64-11.1.0.7.0\instantclient_11_1;D:\applications\nodejs\;D:\applications\nudi\Nudi 6.1;D:\applications\ffmpeg\FFmpeg\FFmpeg\bin;D:\applications\maven\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;C:\Users\vivek\AppData\Local\Microsoft\WindowsApps;D:\applications\code block\CodeBlocks\MinGW\bin;D:\applications\vscode\Microsoft VS Code\bin;D:\applications\pycharm\PyCharm Community Edition 2022.1\bin;D:\applications\sql plus\instantclient-sqlplus-windows.x64-11.2.0.4.0\instantclient_11_2;C:\Users\vivek\AppData\Roaming\npm;C:\Program Files\Java\jdk-19\bin
+JRE paths:	;D:\applications\sql_plus\app\app\oracle\product\11.2.0\server\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;D:\applications\python\Scripts\;D:\applications\python\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-19\bin;D:\applications\git\Git\cmd;D:\applications\sql plus\instantclient-basic-win-x86-64-11.1.0.7.0\instantclient_11_1;D:\applications\nodejs\;D:\applications\nudi\Nudi 6.1;D:\applications\ffmpeg\FFmpeg\FFmpeg\bin;D:\applications\maven\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;C:\Users\vivek\AppData\Local\Microsoft\WindowsApps;D:\applications\code block\CodeBlocks\MinGW\bin;D:\applications\vscode\Microsoft VS Code\bin;D:\applications\pycharm\PyCharm Community Edition 2022.1\bin;D:\applications\sql plus\instantclient-sqlplus-windows.x64-11.2.0.4.0\instantclient_11_2;C:\Users\vivek\AppData\Roaming\npm;C:\Program Files\Java\jdk-19\bin
+Check launcher:	D:\applications\sql_plus\app\app\oracle\product\11.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler\bin\javaw.exe (not found)
+Check launcher:	D:\applications\python\Scripts\bin\javaw.exe (not found)
+Check launcher:	D:\applications\python\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe (OK)
+Version string: 1.019.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe
+Launcher args:	-jar "E:\programming\spring boot\Power Point Generator\powerpoint\PPT Creator.exe"
+Args length:	82/32768 chars
+Exit code:	0
